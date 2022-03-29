@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\obj\Debug\1stWeek.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\obj\Debug\1stWeek.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\bin\Debug\1stWeek.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\bin\Debug\1stWeek.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\bin\Debug\1stWeek.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\obj\Debug\1stWeek.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\1stWeek\1stWeek\obj\Debug\1stWeek.pdb
